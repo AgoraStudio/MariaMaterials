@@ -1,0 +1,2 @@
+/Users/futianyu/Desktop/游戏设计/Maria materials/Packages/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/futianyu/Desktop/游戏设计/Maria materials/Packages/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
